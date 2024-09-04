@@ -22,4 +22,4 @@ gcode:
 ====================================================================================
 เลี้ยงกาแฟ
 PROMPT PAY: 
-![alt text](promptpay.png)
+<img src="promptpay.png" width=500>
