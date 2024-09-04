@@ -23,4 +23,4 @@ gcode:
 
 #### เลี้ยงกาแฟ
 PROMPT PAY: 
-<img src="promptpay.png" width=500>
+<img src="promptpay.png" width=250>
