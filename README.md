@@ -8,7 +8,7 @@
 [line_notify]
 access_token: <Put your access token>
 ```
-5. สร้าง macro ไว้สำหรับใช้งานที่จะให้แจ้่งเตีอนจุดต่างๆ
+5. สร้าง macro ไว้สำหรับใช้งานที่จะให้แจ้งเตีอนจุดต่างๆ
 ```
 [gcode_macro TEST_NOTIFY]
 gcode:
